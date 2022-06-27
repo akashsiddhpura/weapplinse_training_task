@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77764173709",
+    "project_id": "weap-demo",
+    "storage_bucket": "weap-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77764173709:android:9745b56bb599a61ac0a7c4",
+        "android_client_info": {
+          "package_name": "com.example.weekly_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77764173709-lghorsn45l75rs3822nk4b19s5v751ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weekly_task",
+            "certificate_hash": "ddffc7e9609e4ff2995866ad0c679614430c99ff"
+          }
+        },
+        {
+          "client_id": "77764173709-ln52cq53r4ki0cd288q4ntg5oga61esa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsxrQ5azQSAsGMtXpxTsOnmR_fdW5hX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77764173709-ln52cq53r4ki0cd288q4ntg5oga61esa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

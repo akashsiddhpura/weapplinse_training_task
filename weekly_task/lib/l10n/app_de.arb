@@ -1,0 +1,10 @@
+{
+  "hello": "Hallo wie geht's dir?",
+  "user_status": "{usesrname} ist {status}",
+  "@user_status": {
+    "placeholders": {
+      "usesrname": {},
+      "status": {}
+    }
+  }
+}

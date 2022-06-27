@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weapplinse</string>
+    <string name="facebook_app_id">2815725305240188</string>
+    <string name="fb_login_protocol_scheme">fb2815725305240188</string>
+    <string name="facebook_client_token">be13127a2aec127fcbb3fcc41b3a9421</string>
+</resources>

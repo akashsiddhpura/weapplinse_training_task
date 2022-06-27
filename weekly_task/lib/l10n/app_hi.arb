@@ -1,0 +1,10 @@
+{
+  "नमस्ते": "नमस्ते आप कैसे हैं?",
+  "user_status": "{usesrname} है {status}",
+  "@user_status": {
+    "placeholders": {
+      "usesrname": {},
+      "status": {}
+    }
+  }
+}

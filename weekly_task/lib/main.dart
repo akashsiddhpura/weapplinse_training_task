@@ -240,6 +240,7 @@ Future<void> firebaseForegroundMessage(RemoteMessage message) async {
   print(message.notification!.body);
   print(message.notification!.android!.imageUrl.toString());
 }
+//hii
 // Future<void> firebaseForegroundMessage(RemoteMessage message) async {
 //   RemoteNotification? notification = message.notification;
 //   AndroidNotification? android = message.notification?.android;
